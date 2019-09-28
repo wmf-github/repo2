@@ -7,3 +7,5 @@ weaeawa
 
 
 awdadasdasd
+
+$ ssh-keygen -t rsa
